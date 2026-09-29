@@ -1,0 +1,1 @@
+export default function Login(){return <main><h1>ورود</h1><p>صفحه ورود در مرحله بعد به Supabase Auth متصل می‌شود.</p></main>}

@@ -1,0 +1,1 @@
+export default function Home(){return <main><h1>بازتاب شاپ</h1><p>پنل مالی و فروش آنلاین‌شاپ</p><a href="/login">ورود به پنل</a></main>}
